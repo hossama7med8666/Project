@@ -1,0 +1,13 @@
+C:\Users\20101\source\repos\tottal salles\tottal salles\bin\Debug\tottal salles.exe.config
+C:\Users\20101\source\repos\tottal salles\tottal salles\bin\Debug\tottal salles.exe
+C:\Users\20101\source\repos\tottal salles\tottal salles\bin\Debug\tottal salles.pdb
+C:\Users\20101\source\repos\tottal salles\tottal salles\obj\Debug\tottal salles.csprojAssemblyReference.cache
+C:\Users\20101\source\repos\tottal salles\tottal salles\obj\Debug\tottal_salles.Form1.resources
+C:\Users\20101\source\repos\tottal salles\tottal salles\obj\Debug\tottal_salles.Properties.Resources.resources
+C:\Users\20101\source\repos\tottal salles\tottal salles\obj\Debug\tottal salles.csproj.GenerateResource.cache
+C:\Users\20101\source\repos\tottal salles\tottal salles\obj\Debug\tottal salles.csproj.CoreCompileInputs.cache
+C:\Users\20101\source\repos\tottal salles\tottal salles\obj\Debug\tottal salles.exe
+C:\Users\20101\source\repos\tottal salles\tottal salles\obj\Debug\tottal salles.pdb
+C:\Users\20101\source\repos\tottal salles\tottal salles\obj\Debug\tottal_salles.Form2.resources
+C:\Users\20101\source\repos\tottal salles\tottal salles\obj\Debug\tottal_salles.Team.resources
+C:\Users\20101\source\repos\tottal salles\tottal salles\obj\Debug\tottal_salles.Form3.resources
